@@ -13,7 +13,6 @@ This repository contains an example of a maze solver using reinforcement learnin
 1. Install the dependencies:
    ```bash
    pip install -r requirements.txt
-   
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
