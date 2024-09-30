@@ -6,7 +6,7 @@ This repository contains an example of a maze solver using reinforcement learnin
 
 - **Reinforcement Learning**: Train an agent using modern RL techniques to solve a maze.
 - **Integration with Acrome BBT**: Test your maze solver with Acrome BBT hardware.
-- **Simulation and Visualization**: Simulate the maze environment and visualize results using OpenAI Gym and Matplotlib.
+- **Simulation and Visualization**: Simulate the maze environment and visualize results using Matplotlib.
 
 ## Installation
 
